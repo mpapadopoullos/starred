@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [crc-org/vfkit](https://github.com/crc-org/vfkit) - 
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
@@ -237,6 +238,7 @@
 
 ## Python 
 
+- [openscanhub/openscanhub](https://github.com/openscanhub/openscanhub) - OpenScanHub is a service for static and dynamic analysis.
 - [RedHatProductSecurity/rapidast](https://github.com/RedHatProductSecurity/rapidast) - RapiDAST enables simple, continuous and fully automated application security testing
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
