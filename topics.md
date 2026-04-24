@@ -657,6 +657,7 @@
 
 ## golang 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -992,6 +993,7 @@
 
 ## others 
 
+- [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules) - Semgrep queries developed by Trail of Bits.
 - [crc-org/vfkit](https://github.com/crc-org/vfkit) - 
 - [openscanhub/openscanhub](https://github.com/openscanhub/openscanhub) - OpenScanHub is a service for static and dynamic analysis.
 - [RedHatProductSecurity/rapidast](https://github.com/RedHatProductSecurity/rapidast) - RapiDAST enables simple, continuous and fully automated application security testing
@@ -1192,6 +1194,8 @@
 
 ## security 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
+- [semgrep/semgrep-rules](https://github.com/semgrep/semgrep-rules) - Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.
 - [Trusera/ai-bom](https://github.com/Trusera/ai-bom) - AI Bill of Materials — discover every AI agent, model, and API in your infrastructure
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
@@ -1253,6 +1257,7 @@
 
 ## security-tools 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
