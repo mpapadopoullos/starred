@@ -171,6 +171,8 @@
 
 ## ai 
 
+- [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [Trusera/ai-bom](https://github.com/Trusera/ai-bom) - AI Bill of Materials — discover every AI agent, model, and API in your infrastructure
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -237,6 +239,7 @@
 
 ## artificial-intelligence 
 
+- [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -352,6 +355,7 @@
 
 ## chatbot 
 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## chatgpt 
@@ -430,6 +434,7 @@
 
 ## computer-vision 
 
+- [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## continuous-integration 
@@ -488,6 +493,7 @@
 
 ## deep-learning 
 
+- [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -859,6 +865,7 @@
 
 ## llm 
 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [Trusera/ai-bom](https://github.com/Trusera/ai-bom) - AI Bill of Materials — discover every AI agent, model, and API in your infrastructure
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
@@ -885,6 +892,7 @@
 
 ## machine-learning 
 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -993,6 +1001,13 @@
 
 ## others 
 
+- [Ledger-Donjon/zorya](https://github.com/Ledger-Donjon/zorya) - Zorya: Automated Concolic Execution Engine optimized for Go Binaries analysis, using Ghidra's P-Code as IR, and written in Rust.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
+- [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules) - Semgrep queries developed by Trail of Bits.
 - [crc-org/vfkit](https://github.com/crc-org/vfkit) - 
 - [openscanhub/openscanhub](https://github.com/openscanhub/openscanhub) - OpenScanHub is a service for static and dynamic analysis.
@@ -1103,6 +1118,7 @@
 
 ## python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -1140,6 +1156,7 @@
 
 ## rag 
 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
