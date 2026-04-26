@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [trailofbits/trailmark](https://github.com/trailofbits/trailmark) - Build and query a graph database representation of source code
 - [Ledger-Donjon/zorya](https://github.com/Ledger-Donjon/zorya) - Zorya: Automated Concolic Execution Engine optimized for Go Binaries analysis, using Ghidra's P-Code as IR, and written in Rust.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
