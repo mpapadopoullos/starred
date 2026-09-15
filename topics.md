@@ -1540,6 +1540,7 @@
 
 ## others 
 
+- [opendatahub-io/agent-eval-harness](https://github.com/opendatahub-io/agent-eval-harness) - 
 - [konflux-ci/mintmaker-renovate-image](https://github.com/konflux-ci/mintmaker-renovate-image) - A repo useful to host and build the mintmaker container image
 - [golang-fips/go](https://github.com/golang-fips/go) - Repository for FIPS enabled Go using OpenSSL
 - [exploitintel/eip-pocs-and-cves](https://github.com/exploitintel/eip-pocs-and-cves) - Proof-of-concept exploits and reproduction labs for CVEs analyzed by the Exploit Intelligence Platform
