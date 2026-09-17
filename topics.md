@@ -1545,7 +1545,7 @@
 - [golang-fips/go](https://github.com/golang-fips/go) - Repository for FIPS enabled Go using OpenSSL
 - [exploitintel/eip-pocs-and-cves](https://github.com/exploitintel/eip-pocs-and-cves) - Proof-of-concept exploits and reproduction labs for CVEs analyzed by the Exploit Intelligence Platform
 - [konflux-ci/konflux-operator-tasks](https://github.com/konflux-ci/konflux-operator-tasks) - Build-definiton tasks maintained by integration-service and oprerator-foundry teams
-- [openshift/traust](https://github.com/openshift/traust) - Traust security auditing harness, skills, and commands
+- [traust-security/traust](https://github.com/traust-security/traust) - Traust security auditing harness, skills, and commands
 - [alchaincyf/harness-engineering-orange-book](https://github.com/alchaincyf/harness-engineering-orange-book) - Harness Engineering · 橙皮书系列 · AI Agent 缰绳工程学实战指南
 - [flightctl/ai-workflows](https://github.com/flightctl/ai-workflows) - Reusable AI workflows a team member can install globally or per-project, in any environment: Cursor, Claude Code and others.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
