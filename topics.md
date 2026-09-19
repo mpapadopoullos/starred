@@ -261,7 +261,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-- [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK)
+- [google/adk-recipes](https://github.com/google/adk-recipes) - A collection of sample agents built with Agent Development Kit (ADK)
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -1540,6 +1540,8 @@
 
 ## others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [opendatahub-io/agent-eval-harness](https://github.com/opendatahub-io/agent-eval-harness) - 
 - [konflux-ci/mintmaker-renovate-image](https://github.com/konflux-ci/mintmaker-renovate-image) - A repo useful to host and build the mintmaker container image
 - [golang-fips/go](https://github.com/golang-fips/go) - Repository for FIPS enabled Go using OpenSSL
