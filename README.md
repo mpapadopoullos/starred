@@ -585,6 +585,7 @@
 
 ## c 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
@@ -763,6 +764,7 @@
 
 ## cpp 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -785,6 +787,7 @@
 
 ## csharp 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 
 ## css 
@@ -1116,6 +1119,7 @@
 
 ## golang 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [containerd/ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
@@ -1280,6 +1284,7 @@
 
 ## java 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
@@ -1294,6 +1299,7 @@
 
 ## javascript 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -1319,6 +1325,7 @@
 
 ## kubernetes 
 
+- [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is a Kubernetes distribution for confidential computing, securing entire clusters on untrusted infrastructure.  Constellation is in maintenance mode. New development continues in Contras
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption at the Kubernetes Pod and Node level. It reads hardware sensors, attributes power to 
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [tektoncd/pipelines-as-code](https://github.com/tektoncd/pipelines-as-code) - Pipelines-as-Code for Tekton
@@ -1928,6 +1935,7 @@
 
 ## python 
 
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -2085,6 +2093,8 @@
 
 ## rust 
 
+- [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
+- [microsoft/regorus](https://github.com/microsoft/regorus) - Regorus - A fast, lightweight Rego (OPA policy language) interpreter written in Rust.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
