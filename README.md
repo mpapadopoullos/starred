@@ -1875,7 +1875,7 @@
 - [nautilus-fuzz/nautilus](https://github.com/nautilus-fuzz/nautilus) - A grammar based feedback Fuzzer
 - [openshift/openshift-mcp-server](https://github.com/openshift/openshift-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 - [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) - A suite of plugins for legal workflows
-- [konflux-ci/build-definitions](https://github.com/konflux-ci/build-definitions) - 
+- [konflux-ci/build-definitions](https://github.com/konflux-ci/build-definitions) - THIS REPOSITORY IS DEPRECATED
 - [openshift-eng/ai-helpers](https://github.com/openshift-eng/ai-helpers) - Developer productivity tools for Claude Code & other AI assistants
 - [openkaiden/kaiden](https://github.com/openkaiden/kaiden) - 
 - [toddward/the-learning-skill](https://github.com/toddward/the-learning-skill) - 
