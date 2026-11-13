@@ -1114,7 +1114,7 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [synacktiv/octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## go 
 
@@ -1713,7 +1713,7 @@
 ## npm 
 
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## obsidian 
 
@@ -1775,6 +1775,8 @@
 
 ## others 
 
+- [openshift/os](https://github.com/openshift/os) - 
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [openshift/release](https://github.com/openshift/release) - Release tooling for OpenShift
 - [openresponses/openresponses](https://github.com/openresponses/openresponses) - 
 - [NVIDIA/spdm](https://github.com/NVIDIA/spdm) - Implementation of the SPDM protocol
