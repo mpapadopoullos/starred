@@ -121,6 +121,7 @@
 - [laravel](#laravel)
 - [learn-to-code](#learn-to-code)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
@@ -1013,6 +1014,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
@@ -1480,6 +1482,10 @@
 
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
+## library 
+
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
+
 ## linux 
 
 - [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
@@ -1780,6 +1786,7 @@
 ## open-source 
 
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -2545,6 +2552,7 @@
 ## terminal 
 
 - [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) - The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robo
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2597,6 +2605,7 @@
 
 - [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
 - [receptron/laya](https://github.com/receptron/laya) - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime
